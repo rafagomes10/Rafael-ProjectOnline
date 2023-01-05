@@ -1,0 +1,23 @@
+.icon-fab{
+    font-size: 35px ;
+}
+
+.whatsapp-link{
+    position: fixed;
+    width: 35px;
+    height: 35px;
+    bottom: 35px;
+    right: 35px;
+
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-whatsapp{
+    margin-top: 5px;
+}
